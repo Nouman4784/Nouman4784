@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nouman4784
 - 👀 I’m interested in creating ideas into apps
-- 🌱 I can solve problems and provides an automated solution in form of developing applications 
+- 🌱 I can solve problems and provide an automated solution in form of developing applications 
 - 📫 reach me by "nouman.aslam4784@gmail.com"
 
 <!---
